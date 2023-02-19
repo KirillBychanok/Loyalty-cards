@@ -1,4 +1,4 @@
-import pytestqq
+import pytest
 
 from .models import Orders, Card, Goods
 
